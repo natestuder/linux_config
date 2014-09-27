@@ -1,0 +1,8 @@
+[user]
+	name = Nathan Studer
+	email = nathan.c.studer@delphi.com
+[color]
+	ui = true
+[core]
+	filemode = false
+	editor = vim
